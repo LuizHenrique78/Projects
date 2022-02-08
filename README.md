@@ -1,2 +1,2 @@
 # Projects
-Projects with robot framework and python 
+This is the beginning of an encript and decript functions for robot framework. 
