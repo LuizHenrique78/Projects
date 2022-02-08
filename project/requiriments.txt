@@ -1,0 +1,12 @@
+robotframework
+robotframework-browser
+psycopg2
+robotframework-faker
+robotframework-pabot
+requests
+collection
+rpaframework
+robotframework-seleniumlibrary
+selenium
+PyMySQL
+robotframework-metrics==3.2.2
